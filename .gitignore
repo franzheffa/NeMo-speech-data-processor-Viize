@@ -1,0 +1,27 @@
+# log and data files
+test_data
+workdir
+lightning_logs
+
+# unit test / coverage reports
+.hypothesis
+.coverage
+pytest.xml
+pytest-coverage.txt
+
+# vscode 
+.vscode
+
+# docs
+docs/html
+docs/src/sdp/config-docs/
+
+# venv
+asr-venv
+test-venv
+
+# byte-compiled / optimized / DLL files
+__pycache__
+
+# egg-info
+sdp.egg-info
